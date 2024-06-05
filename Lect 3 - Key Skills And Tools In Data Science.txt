@@ -1,0 +1,36 @@
+->Major Roles in Data domain:
+
+	1)Data Analyst:
+	  Skills: SQL, Excel, Data visualization, basic statistical Knowledge.
+	* They analyse the trends. 
+	* They visualize the data.
+
+	2)Data Scientist:
+	  Skills: Programming(Python/R),machine learning, advanced statistics, data 			  wrangling.
+	* They develop algorithms.
+	* They work on predictive models.
+	* They perform advanced data analyses.
+	* They pre-process the data.
+	
+	3)Machine Learning Engineer:
+	  Skills: Deep Learning, algorithm optimization, programming, software engineering.
+	* They develop ML models.
+	* They optimize ML algorithms.
+	* They also work on ML integrated systems.
+
+	4)Data Engineer:
+	  Skills: Database Management, ETL processes, big data technologies, data pipelines.
+	* They work on database.
+	* They work on ETL.
+	* They work on data pipelines.
+
+	5)Business Intelligence Analyst
+	  Skills: Data analysis, BI tools(Tableau, Power BI), business knowledge.
+	* They are responsible for analysing business data.
+	* They generate reports.
+	* They are used for decision making.
+
+-> Main Tools:
+	* Anaconda
+	* Google Colab/Jupyter
+	* Git version control
