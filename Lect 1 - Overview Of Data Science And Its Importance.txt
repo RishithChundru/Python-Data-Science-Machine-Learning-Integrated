@@ -1,0 +1,27 @@
+->Data Science is known as:
+	* data can be in form of text, images, videos, audio.
+	* Science is also known as analysing the things on various aspects.
+
+->Data Science is now a proficient field in big companies like:
+	* Microsoft
+	* Zomato
+	* YouTube
+
+->How data science is used in Zomato?
+	* it analyses the traffic condition to travel from one point to other point to reach 	  the food to customer.
+	* it analyses the distance and suggests the better route to reach the customer.
+
+->How data science is used in YouTube?
+	* it suggests the videos based on our search history.
+
+-> Data Science vs AI vs ML
+	* In Data science, we do analysis on data, we do visualisation of data, etc.
+	* In AI, it is known as Artificial Intelligence.
+	* AI is refers to machines which are build to perform specific tasks.
+	* It works by taking some input from the human. Using the input, it create some 
+	  output related to input.
+	* Best example for AI is tesla car, etc.
+	* In ML, it is known as Machine Learning.
+	* ML is subset of AI.
+	* ML make recommendations on data that user provide
+	* Best example for ML is Netflix, etc.
