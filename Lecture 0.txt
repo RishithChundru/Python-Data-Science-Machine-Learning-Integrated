@@ -1,0 +1,16 @@
+This is the introduction lecture. And This lecture tell us about the course coverage. 
+->This course contains :
+
+1)Introduction to Data Science
+2)Setting Up Your Environment
+3)Advanced Excel for Data Analysis
+4)Python for Data Science
+5)Data Visualization
+6)Introduction to Power BI
+7)Data Preprocessing Concepts
+8)Statistics Deep Dive
+9)Machine Learning Algorithms
+ 
+And this course contains two industrial projects named :
+1)Building a Chatbot
+2)Image Classification Project
