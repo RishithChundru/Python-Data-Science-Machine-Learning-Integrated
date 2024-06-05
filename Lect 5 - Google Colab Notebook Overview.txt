@@ -1,0 +1,27 @@
+->What is Google Colab?
+	* A free cloud service.
+	* Allows users to write and execute Python code through the browser.
+
+ 	->Key features:
+	* No setup  required.
+	* free access to GPUs and TPUs.
+	* Easy Sharing.
+
+->Setting up your Environment
+
+	->How to access Google Colab:
+		* Directly through a web browser.
+		* Link with Google Drive for easy file access.
+	->Basic setup:
+  		* Starting a new notebook.
+		* important libraries.
+		* Loading data from Google Drive.
+
+->Collaborating in Colab
+	 	
+	->Features for Collaboration:
+		* Real-time document editing similar to Google Docs.
+		* Commenting and sharing options.
+	->Best Practices for Team Projects: 
+		* Managing versions.
+		* Sharing notebooks with team members.
