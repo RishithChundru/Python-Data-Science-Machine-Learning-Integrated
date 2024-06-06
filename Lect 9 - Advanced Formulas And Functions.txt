@@ -1,0 +1,8 @@
+->How to write formula in Excel
+	1)select the cell.
+	2)Enter the equals sign so excel knows a formula is being entered.
+	3)using the example of the four times table
+		* In cell E3 type: =A3*C3	
+		* press Enter.
+	4)select E3 and drag bottom right corner down to E12.
+	5)the formula has been applied to all these cells.
