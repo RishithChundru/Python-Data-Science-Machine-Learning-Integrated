@@ -1,0 +1,34 @@
+->Version Control
+	* It helps you to manage projects and Version control systems are software tools that 	  help software teams manage changes to source code over time.
+
+->Basics of Git
+	* Key features:
+		1)Snapshot
+		2)Branches
+		3)Local & remote repositories.
+	*Basic Commands: git init, git add, git commit, git status
+
+->Using Git for Project Management
+	* Branch Management
+	* Merging and Conflicts
+	* Version Tracking
+
+->Project Management: 
+	* It is the process of leading the Work of a team to achieve all project Goals within
+	  the given constraints.
+
+->Introduction To GitHub
+	* Key Features:
+		1)Pull Requests
+		2)Forks
+		3)Social Networking features for developers
+
+->GitHub Actions
+	* Run tests
+	* Deploy Code
+
+->Introduction To GitLab
+	* Core Features
+		1)Issue tracking
+		2)CI/CD pipelines
+		3)Merge Requests
