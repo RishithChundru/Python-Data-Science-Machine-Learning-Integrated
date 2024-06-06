@@ -1,0 +1,46 @@
+->Advanced Excel
+	* it is a tool created by Microsoft.
+	* it includes pivot charts and pivot tables.
+	* it includes macros, etc.
+
+->Excel worksheet:
+	* it contains document title, column, row, Document View, Worksheet tabs, Name of 	  the cell, highlighted cell.
+
+->Advanced Formulas and Functions: 
+	* Sum
+	* Average
+	* Max
+	* Min
+	* Xlookup
+	* SumProduct
+	* Offset
+	* Query.
+
+->Data Cleaning and Preparation Techniques:
+	* Trim
+	* Proper
+	* Upper
+	* Lower
+	* Left
+	* Mid
+	* Right
+	* Concatenate
+	* Textjoin
+	* Split
+	* If
+	* Iferror.
+
+->Time and Date Functions
+	* Date
+	* Day
+	* Edate
+	* Today
+	* Now
+	* Weekday
+	* Hour.
+	
+->Excel Automation Basics: Introduction to macros and VBA
+	* Introduction to excel macros
+	* VBA for Automation.
+	
+
