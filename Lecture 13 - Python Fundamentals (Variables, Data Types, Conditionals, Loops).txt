@@ -1,0 +1,32 @@
+->Python:
+	* It is a popular Programming language.
+	* It was created by Guido van Rossum, and released in 1991.
+	* it is used for:
+		* web development
+		* software development
+		* mathematics
+		* system scripting
+		* data science.
+
+->Why python?
+	* Python works on different platforms((Windows, Mac, Linux, Raspberry Pi, etc).
+	* Python has a simple syntax similar to the English Language.	
+	* Python has syntax that allows developers to write programs with fewer lines than 	  some other programming languages.
+
+->Variables:
+	* Def: Variables in python are used to store data that can be referenced and 	 	  manipulated throughout the program. they act as placeholders for values.
+	* use cases: Variables can be used to store user information in a registration form.
+	  for examples, name, age, and height could store the respective details of user.
+
+->Data Types:
+	* Def: Data types specify the type of data that a variable can hold. Common data 	  types in python include integers, floats, strings, lists, tuples, dictionaries, and 	  Booleans.
+	* Use cases: They are used to model different kinds of information. for example, a 	  dictionary can store user profiles in a social media application where keys are 	  profile attributes and values are corresponding data.
+
+->Conditionals:
+	* Def: Conditional statements in python(if, elif, else) are used to execute code 	  based on certain conditions.
+	* Use cases: Conditionals can be used in an e-commerce application to provide 	 	  different pricing tiers based on user membership levels(e.g., standard, premium, 	  VIP).
+
+->Loops:
+	* Def: Loops are used to execute a block of code repeatedly. Python supports for and 	  while loops.
+	* Use Cases: Loops can be used to process items in a list. For instance, in a 	 	  payroll system, a for loop could iterate through a list of employees and 		  calculate their salaries.
+	
