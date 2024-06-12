@@ -1,0 +1,5 @@
+->Data Manipulation and Analysis with NumPy:
+	* Def: NumPy is fundamental package for scientific computing with python. it provides 	  support for arrays, matrices, and a large collection of mathematical functions to 	  operate on these data structures. Numpy arrays are more efficient and provide 	  better performance for numerical operations compared to python's built-in lists.
+	* Use Cases: NumPy can be used in various scientific computing scenarios, such as 	  statistical analysis, signal processing, and image processing.
+
+
