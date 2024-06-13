@@ -1,0 +1,7 @@
+->Introduction to plotly:
+	* Def: It is graphing library that makes interactive, publication-quality graphs 	  online. it supports a wide variety of charts, including line plots, scatter plots, 	  bar charts, histograms, heatmaps, and more. plotly is particularly useful for 	  creating interactive visualizations that can be embedded in web applications and 	  shared online.
+	* Key features of plotly: 
+		1) Interactivity: Plotly charts are interactive by default, allowing users to     	          	          zoom, pan, and hover over data points to get more 					  information.
+		2) Wide Range of Chart Types: Plotly supports a variety of chart types, 	     	     			      including basic plots, statistical plots, 3D 					      plots, and maps.
+		3) Customization: Extensive options to customize the appearance and behaviour 				  of charts.
+		4) Integration: Easy integration with web applications and other libraries 				like Dash for building interactive dashboards.
