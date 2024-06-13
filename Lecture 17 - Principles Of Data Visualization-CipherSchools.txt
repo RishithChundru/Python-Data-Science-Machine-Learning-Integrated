@@ -1,0 +1,51 @@
+->What is data visualization?
+	* Creating graphs based on the given data.
+	* We will get insights from the data visualization. with use of insights we can take 	  decisions.
+ 
+->Different Plots:
+	-> Line Chart
+		* It is used for  Predictions.
+	-> Bar Chart
+	-> Pie Chart
+		* It is used to get the percentage.
+	-> Histogram
+	-> Scatter Plot
+	-> Box Plot(Outliers).
+
+->Types of Data:
+	* Numerical
+	* Categorical
+
+->Plotly:
+	* Cross Platform
+	* Interactive Charts
+	* Range Charts
+	* Customization.
+
+->Principle 1- Clarity:
+	* Avoid Clutter.
+	* Use Clear Visual hierarchies.
+
+->Principle 2- accessibility:
+	* Use color schemes that are colorblind friendly.
+	* Ensure text is readable.
+
+->Principle 3- Accuracy:
+	* Use appropriate scales and axes.
+	* Avoid misleading representations.
+
+->Principle 4- Relevance:
+	* Tailor visualizations to the audience.
+	* Highlight what's most important.
+
+->Principle 5- Aesthetics:
+	* Balance Color and design elements.
+	* Use Whitespace effectively.
+
+->Principle 6- Interaction:
+	* Examples of interactive tools(e.g., hover, drill-down).
+	* Benefits of interaction in exploring data.
+
+->Principle 7- Context:
+	* Keep the "big picture" in mind.
+	* Compare and contrast data points.
