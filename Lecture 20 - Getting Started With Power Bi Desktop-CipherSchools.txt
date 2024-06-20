@@ -1,0 +1,29 @@
+->What is Power BI?
+	* It is a business analytics tool developed  by Microsoft that enables users to 	  visualize and analyze data with greater speed, efficiency and understanding.
+	* It offers interactive visualizations, business intelligence capabilities, and an 	  easy-to-use interface for creating reports and dashboards.
+
+->Components of Power BI:
+	* Power BI Desktop
+	* Power BI Service(Online Software as a Service(SaaS))
+	* Power BI Mobile Apps
+	* Power BI Report Server.
+
+->Key Features of Power BI:
+	* Data Connectivity
+	* Data Transformation
+	* Visualizations
+	* Dashboards and Reports
+	* DAX(Data Analysis Expressions).
+
+->Benefits:
+	* Ease to use
+	* Real-time insights
+	* Collaboration and sharing
+	* Cost-effective
+	* Integration with other tools.
+
+->Who can benefit from power BI?
+	* Business analyst, data analysts and data scientists.
+	* Decision-makers and executives.
+	* IT professionals.
+
