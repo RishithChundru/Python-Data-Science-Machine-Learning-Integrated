@@ -1,0 +1,46 @@
+->Descriptive Statistics- Mean
+	* Definition: The mean is the average of a set of numbers. it is calculated by 			      summing all the numbers and dividing by the count of numbers.
+	* Use Case: The mean is used in market analysis to summarize the average value of a 	 	    dataset, such as average customer age or average income.
+
+->Median:
+	* Definition: The median is the middle value  in a set of numbers. it separates the
+		      higher half from the lower half of the dataset. 
+	* Formula: n=odd->median=(n+1)/2 th term
+		   n=even->median=meanof((n/2),(n/2)+1)th term
+	* Use Case: The median is used to understand the central tendency of data, especially 		    when the data has outliers, such as median household income.
+
+->Mode:
+	* Definition: The mode is the value that appears most frequently in a dataset.
+	* Use Case: The mode is used in retail to find the most common product sold or the 	 	    most common transaction amount.
+
+->Standard Deviation:
+	* Definition: It measures the amount of variation or dispersion in a set of values. 		      it indicates how much the values differ from the mean.
+	* Use Case: It is used in finance to measure the risk or volatility of an investment.
+
+->Variance:
+	* Definition: The variance measures the dispersion of a set of values. it is the 		      average of the squared differences from the mean.
+	* Use Case: It is used in finance to assess the spread between numbers in a datset, 		    such as investment returns.
+
+->Normal Distribution(Gaussian Distribution):
+	* Definition: the normal distribution is a continuous probability that is symmetrical 		      around the mean. it is also known as the Gaussian distribution.
+	* Use Case: It is used in finance to model returns on investment and in quality 		    control to monitor product defects.
+
+->Binomial Distribution:
+	* Definition: It is a discrete probability distribution that models the number of 		      successes in a fixed number of trials, with each trial having two 		      possible outcomes.
+	* Use Case: It is used in quality control to model the number of defective items in 		    a batch of products.
+
+->Quartiles: 
+	* Definition: These are values that divide a dataset into four equal parts. they 		      are used to understand the distribution of the data and are 			      particularly useful in identifying the spread and the presence of 		      outliers.
+	* Key Points: 
+		1) Q1(First Quartile): The median of the lower half of the dataset(25th 				       percentile).
+		2) Q2(Second Quartile or Median): The Median of the dataset(50th 							  percentile). 
+		3) Q3(Third Quartile): The Median of the upper half of the dataset(75th 				       percentile).
+		4) IQR(Interquartile Range): The difference between the third and first 					     quartiles(IQR=Q3-Q1). IQR is used to measure 					     the spread of the middle 50% of the data.
+
+->Z-Scores:
+	* Definition: A-Z score(or standard score) measures how many standard deviations an 		      element is from the mean. it is used to identify outliers and to 			      compare different data points from different normal distributions.
+
+	* Interpretation:
+		* A-Z score of 0 indicates that the data points score is identical to the 		  mean score.
+		* A-Z score of 1.0 indicates a value that is one standard deviation from 		  the mean.
+		* Z scores can be positive or negative, indicating whether they are above 	 	  or below the mean and by how many standard deviations.
