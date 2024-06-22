@@ -1,0 +1,43 @@
+					***** DAX FUNCTIONS *****
+
+->Key Dax Functions: SUM, COUNT, and IF
+
+1)SUM:
+	* Function: 'SUM(ColumnName)'
+	* Description: Adds all the numbers in a column
+	* Real-life scenario: Calculating the total sales amount in a sales dataset.
+
+2)COUNT:
+	* Function: 'COUNT(ColumnName)'
+	* Description: Counts the number of non-blank cells in a column
+	* Real-life scenario: Counting the number of orders placed by customers.
+
+3)IF:
+	* Function: 'IF(LogicalTest, ResultIfTrue, ResultIfFalse)'
+	* Description: Checks a condition, and returns one value if true, and another value 	               if false. 
+	* Real-life scenario: Categorizing sales as "HIGH" or "LOW" based on a sales 	   			      threshold.
+
+->Real life use case scenarios for DAX Functions:
+	1) Sales Analysis
+	2) Inventory Management
+	3) Customer Insights
+	4) Financial Reporting
+	5) Human Resources
+	6) Project Management
+	7) Marketing Analysis
+	8) Operational Efficiency.
+
+->Advantages of using DAX Functions:
+	1) performance Optimization
+	2) Data manipulation
+	3) Dynamic Calculations
+	4) Integration
+	5) Reusability
+	6) Scalability
+	7) Flexibility
+	8) User-friendly
+	9) Custom-Calculations
+	10) Enhanced Reporting.
+
+
+	
