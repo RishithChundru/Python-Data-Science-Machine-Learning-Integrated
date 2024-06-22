@@ -1,0 +1,24 @@
+->Correlation: 
+	* Definition: Correlation measures the strength and direction of a linear 			      relationship between two variables.
+
+->Concepts:
+	* Strength of relationship: The correlation coefficient ranges from -1 to +1. A value 	  close to +1 implies a strong positive relationship. close to -1 implies a strong 	  negative relationship. And around 0 implies no linear relationship.
+	* Direction of Relationship: Indicates whether the variable increase 			  together(positive) or as one increases, the other decreases(negative).
+
+->Real-Life Use Cases:
+	* Determining the relationships between consumer income and expenditure on luxury 	  items.
+	* In finance, correlating different stock movements to diversity the portfolio.
+
+->Correlation Matrix:
+	-> Types of Correlation Coefficients:
+		1) Pearson Correlation Coefficient: Measures the linear relationship between 	 					    two continuous variables. it assumes that 						    the variables follow a normal 							    distribution.
+		2) Spearman's Rank Correlation Coefficient: A non-parametric measure of rank 							    correlation, assessing how well 							    the relationship between two 							    variables can be described using 							    a monotonic function.
+		3) Kendall's Tau: Another rank-based correlation coefficient, often used for 				  data with a natural ordinal classification.
+
+->Real-Life Use Cases:
+	1) Finance: Correlation matrices are used to understand the relationships between 		    different stocks or financial instruments, aiding in portfolio 			    diversification.
+	2) Marketing: Analyzing customer data to find correlations between different buying 		      behaviours.
+	3) HealthCare: Studying correlations between different lifestyle factors and health 		       outcomes.
+
+
+	
