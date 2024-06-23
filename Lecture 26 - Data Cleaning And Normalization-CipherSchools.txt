@@ -1,0 +1,13 @@
+-> Data Cleaning and Normalization:
+	* Def:
+		* Data Cleaning: It involves identifying and correcting errors and 				         inconsistencies in data to improve its quality. Common tasks 				 include handling missing values, removing duplicates, 					 correcting errors, and ensuring consistency in data formats.
+		* Normalization: It is the process of scaling numerical data to a standard 				 range, typically between 0 and 1, or transforming it to have 				 a mean of 0 and a standard deviations of 1. This process 				 helps improve the performance of machine learning algorithms 				 and ensure that all features contribute equally to the 				 result.
+	* Use Case in Real Life:
+		* Preparing Data for machine learning: Handle missing values and remove 		  duplicates to ensure clean data. Normalize features to improve the 		 	  performance of machine learning algorithms.
+		* Financial Data Analysis: Correct errors in transaction data and  fill 		  missing values. Normalize financial metrics for comparison across different 		  scales.
+		* Customer Data Management: Ensure consistency in customer records and  		  correct erroneous entries. Normalize customer age and income data for 		  segmentation analysis.
+
+
+-> Min-Max Normalization:	
+	* Definition: it is technique to rescale the values of a feature to fixed range, ` 	              usually [0,1].
+	* this is done by transforming each value in the feature such that it fits within the 	  specified Range.
