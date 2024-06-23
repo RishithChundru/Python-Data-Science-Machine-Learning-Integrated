@@ -1,0 +1,10 @@
+->Handling and Removing Outliers:
+	* Definition:
+		* Outliers: They are data points that differ significantly from other 				    observations. They can occur due to variability in the data or 			    experimental errors.
+		* Handling Outliers: This involves identifying and deciding whether to remove 				     or adjust outliers to improve the accuracy of 					     statistical analysis and machine learning models.
+
+-> Use Case in Real life:
+	* Financial Data Analysis: Identify and remove outliers in financial transaction data 				   to prevent fraudulent activities and improve the accuracy 				   of financial models.
+	* Customer Data Management: Clean customer data by handling outliers in age, income, 				    and spending to create accurate customer segments and 				    improve marketing strategies.
+	* Health Data Analysis: Detect and handle outliers in patient health records, such as blood pressure and cholesterol levels, to ensure accurate diagnoses and treatment plans.
+
