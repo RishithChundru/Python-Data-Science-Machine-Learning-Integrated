@@ -1,0 +1,22 @@
+->Feature Engineering and Feature Selection
+
+->Feature Engineering Methods
+	1) Handling Missing Values
+		* Imputation: Fill missing values with mean, median, mode or other values.
+	2) Encoding Categorical Variables
+		* One-Hot Encoding: Convert categorical variables into a series of binary columns.
+	3) Feature Scaling:
+		* Min-Max Scaling: Scale Features to a fixed range, typically [0,1].
+	4) Feature Creation:
+		* Polynomial Features: Create new features by taking polynomial combinations of existing features.
+
+->Feature Selection Methods
+	1) Variance Thresholding
+		* Explanation: Variance thresholding is a simple baseline approach to feature selection. it removes all features whose variance doesn't meet some 			  		  threshold. By default, it removes all zero-variance features i.e., features that have the same value in all samples.
+	2) Correlation Matrix Filtering
+		* Explanation: It involves computing the correlation matrix for the features in the dataset and removing one of each pair of features with a high 	 		  		  correlation. this helps to reduce redundancy in the data.
+	3) Domain Knowledge
+		* Explanation: It involves using expertise from the specific filed or industry to manually select the most relevant features. this method leverages human understanding of 		  which features are likely to be important.
+
+
+	
