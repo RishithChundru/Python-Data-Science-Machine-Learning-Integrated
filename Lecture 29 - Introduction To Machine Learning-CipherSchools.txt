@@ -1,0 +1,40 @@
+									      *****Introduction to ML*****
+
+-> What is AI?
+	* Simulation of human intelligence processes  by machines.
+				   or
+	* It is the ability for a computer to think and learn.
+
+-> Terms used in AI
+	* Learning
+	* Reasoning
+	* Self-Correction
+
+-> Types of AI:
+	* Weak AI
+	* Strong AI
+
+-> What is ML?
+	* Machine Learning is the subset of AI that uses statistical methods to allow machines to improve their results with the amount of training data fed to it.
+
+-> Uses of ML
+	* Prediction
+	* Classification
+
+-> Human Learning:  Observations -> Learning -> Skills
+-> Machine Learning:  Data -> Model/Prediction -> Predict
+
+-> Supervised Learning:	
+	* The data is labelled.
+
+-> Unsupervised Learning:
+	* The data is unlabelled.
+
+-> Deep learning is subset of Machine Learning. Machine Learning is subset of Artificial Intelligence.
+
+-> Artificial Intelligence: Any technique which enables computers to mimic human behaviour.
+
+-> Machine Learning: AI technique that give computers the ability to learn without being explicitly programmed to do so.
+
+-> Deep Learning: A subset of ML which makes the computation of multi-layer neural networks feasible.
+
