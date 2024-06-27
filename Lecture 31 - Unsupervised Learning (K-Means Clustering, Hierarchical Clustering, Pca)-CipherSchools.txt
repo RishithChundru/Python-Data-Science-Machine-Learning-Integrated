@@ -1,0 +1,31 @@
+->Introduction to Unsupervised Learning
+	* It is a powerful machine learning technique that uncovers hidden patterns and insights from data without any pre-defined labels or targets. it enables us to explore inherent structure and relationships within complex datasets, leading to valuable discoveries and new perspectives.
+
+->K-Means Clustering:
+	* Working:
+		* Choose the number of clusters(k)
+		* Select Randomness Centroids
+		* Assign Points to Nearest Centroid
+		* Update Centroids
+		* Repeat.
+
+-> Hierarchical Clustering:
+	* Develop the hierarchy of clusters in the form of a tree, and this tree-shaped structure is known as Dendrogram.
+
+->Types of approaches:
+	1) Agglomerative: it is a bottom-up approach.
+	2) Divisive: it is a top-down approach.
+
+
+->Principal Component Analysis(PCA): Dimensionality Reduction
+	* It is powerful technique for dimensionality reduction, allowing complex high-dimensional data to be projected onto a lower-dimensional subspace while preserving the maximum amount of variance.
+	* By identifying the principal components - the directions of greatest variance in the data- PCA can significantly reduce the number of features, simplifying data analysis and visualization.
+
+-> Variance and Covariance
+-> Eigen Values and Eigen Vectors
+	* Eigen Vectors point in the direction of variance
+	*  Eigen values indicate the magnitude of variance in the directions of their corresponding eigen vectors.
+	* the eigen vector with the highest eigen values is the principal component of the dataset.
+-> Dimensionality Reduction
+
+
