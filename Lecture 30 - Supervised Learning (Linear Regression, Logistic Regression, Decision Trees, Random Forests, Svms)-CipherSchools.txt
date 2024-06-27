@@ -1,0 +1,41 @@
+->Introduction To Supervised Learning:
+	* It is a fundamental machine learning technique where an algorithm is trained on labeled data to make predictions on new, unseen data. This powerful approach has numerous applications, from spam filtering to medical diagnosis.
+
+-> Overfitting curves are High Variance.
+-> Underfitting curves are high Bias.
+-> Good Balance curves are Low Bias and have Low variance
+
+->Reasons for Under fitting:
+	* Too simple Model
+	* Insufficient training
+	* Poor Feature Selection.
+
+->Reasons for Over Fitting:
+	* Too Complex model
+	* Too much training
+	* Limited training data.
+
+->Linear Regression: Understanding Continuous Relationships
+	* Identifying Patterns -> Uncover how variables are related.
+	* Predicting Outcomes -> Forecast future values based on input data.
+	* Estimating Parameters -> Determines the strength and directions of relationships.
+
+	* It is powerful technique for understanding the continuous relationships between variables. by identifying patterns in data, linear regression allows you to build predictive models that can forecast future outcomes. the key is estimating the parameters that describe the strength and direction of the relationships between your input and output variables.
+
+
+->Logistic Regression: Predicting Binary Outcomes
+	1) Input data: Categorical or numerical features
+	2) Transformation: Apply the logistic function to predict probability
+	3) Classification: Determine class based on probability threshold.
+
+
+->Decision Trees: Building a Hierarchical Model
+	* Feature Selection: identify the most important features that will drive the decision-making process. this is a crucial first step in constructing an effective decision tree.
+	* Recursive Partitioning: The decision tree algorithm repeatedly splits the data based on the features, creating a hierarchical tree-like structure of decisions and outcomes.
+
+
+-> Support Vector Machines(SVMs):
+	1) Maximize Margin: SVM identifies the optimal hyperplane that maximizes the distance between data points of different classes.
+	2) Kernel Trick: By using kernel functions, SVMs can efficiently handle non-linear problems in high dimensional spaces.
+	3) Robust to Outliers: SVMs are less sensitive to outliers compared to other classification algorithm.
+
