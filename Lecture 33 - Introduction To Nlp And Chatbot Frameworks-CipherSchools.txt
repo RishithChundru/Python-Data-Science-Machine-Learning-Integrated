@@ -1,0 +1,31 @@
+-> Introduction to NLP and chatbot frameworks
+	* Definition and importance of NLP: NLP is a field of artificial intelligence that focuses on the interaction between computer and humans through natural language. the ultimate goal of NLP is to enable computers to understand, interpret, and generate human languages in a way that is both meaningful and useful.
+
+
+->Applications of NLP:
+	* Sentiment analysis
+	* Language translation
+	* Chatbots ad virtual assistants
+	* Text summarization
+	* Speech Recognition
+
+
+-> Common NLP tasks:
+	* Tokenization: It is the process of breaking text into individual words or tokens.
+	* Stemming and Lemmatization: Stemming and Lemmatization are process of reducing words to their root forms.
+	* Stop Words Removal: Stop words are common words that add little meaning to text and are often removed in preprocessing.
+
+
+-> Overview of popular NLP libraries
+	* NLTK(Natural language toolkit): it is powerful library for various NLP tasks, including tokenization, stemming, lemmatization and more.
+	* SpaCy: it is an open source software library for advanced NLP tasks, known for its speed and efficiency.
+	* TextBlob: it is simple library for processing textual data, providing easy-to-use APIs for common NLP tasks.
+
+
+->Introduction chatbot frameworks:
+	* Chatterbot: it is python library that makes it easy to generate automated responses to a user's input.
+	* Rasa: it is an open-source framework for building conversational Ai, including chatbots and voice assistants.
+
+
+
+
